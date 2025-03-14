@@ -105,6 +105,9 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-9" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="650" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-19" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="585" width="470" height="205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
