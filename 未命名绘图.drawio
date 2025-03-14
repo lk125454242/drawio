@@ -111,14 +111,8 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-19" value="交互设计阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="585" width="142.5" height="845" as="geometry" />
         </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-106" value="&lt;div&gt;缩减&lt;/div&gt;8% ~ 10%&lt;div&gt;研发周期&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-19">
-          <mxGeometry x="25" y="355" width="100" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-24" value="视觉设计阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401.25" y="585" width="142.5" height="845" as="geometry" />
-        </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-107" value="&lt;div&gt;缩减&lt;/div&gt;8% ~ 20%&lt;div&gt;研发周期&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-24">
-          <mxGeometry x="21.25" y="355" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-25" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1908.75" y="650" width="65" height="30" as="geometry" />
@@ -245,6 +239,9 @@
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-111" value="前端编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="915" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-107" value="&lt;div&gt;缩减&lt;/div&gt;20~ 30%&lt;div&gt;研发周期&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="945" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
