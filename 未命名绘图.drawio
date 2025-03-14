@@ -212,6 +212,39 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-8" target="ziaTT8W9rmz3EXv0RYZL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="679.8275862068965" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1465" y="800" />
+              <mxPoint x="910" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-232" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%8B%E8%AF%95%E5%8F%91%E8%B5%B7%E7%9A%84%E9%80%BB%E8%BE%91%E4%BC%98%E5%8C%96%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221002.3103522560132%22%20y%3D%22759.0344827586207%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziaTT8W9rmz3EXv0RYZL-228">
+          <mxGeometry x="0.4804" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-233" value="产品发起的逻辑优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziaTT8W9rmz3EXv0RYZL-228">
+          <mxGeometry x="0.4804" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1481" y="820" />
+              <mxPoint x="810" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-234" value="测试发起的逻辑优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziaTT8W9rmz3EXv0RYZL-229">
+          <mxGeometry x="0.429" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-8" value="UAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1448.75" y="650" width="65" height="30" as="geometry" />
         </mxCell>
