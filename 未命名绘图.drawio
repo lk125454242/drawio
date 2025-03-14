@@ -183,6 +183,9 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-84" value="上线流程阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1361.25" y="585" width="142.5" height="845" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-85" value="需求阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81.25" y="585" width="142.5" height="845" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
