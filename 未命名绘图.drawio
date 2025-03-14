@@ -224,6 +224,9 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-97" value="需要设计图" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="1610" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-98" value="无需设计图" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="860" width="1610" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
