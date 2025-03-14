@@ -34,7 +34,7 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ziaTT8W9rmz3EXv0RYZL-74" source="ziaTT8W9rmz3EXv0RYZL-5" target="ziaTT8W9rmz3EXv0RYZL-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-5" value="交互还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-74">
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-5" value="交互还原" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-74">
           <mxGeometry x="42.5" y="135" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ziaTT8W9rmz3EXv0RYZL-74" source="ziaTT8W9rmz3EXv0RYZL-128">
