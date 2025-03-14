@@ -243,6 +243,9 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-107" value="&lt;div&gt;节省&lt;/div&gt;20~ 30%&lt;div&gt;研发周期&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="945" width="100" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-114" value="&lt;div&gt;节省&lt;/div&gt;20~ 30%&lt;div&gt;研发周期&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="680" width="100" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
