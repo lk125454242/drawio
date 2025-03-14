@@ -46,14 +46,26 @@
         <mxCell id="MzRyn0qnfD5LSnEBf2ia-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="160" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-1" target="ziaTT8W9rmz3EXv0RYZL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-1" value="PRD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="650" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-2" target="ziaTT8W9rmz3EXv0RYZL-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-2" value="UED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-3" target="ziaTT8W9rmz3EXv0RYZL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-3" value="UID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-4" target="ziaTT8W9rmz3EXv0RYZL-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-4" value="视觉还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="65" height="30" as="geometry" />
@@ -61,11 +73,20 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-5" value="交互还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="720" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-6" target="ziaTT8W9rmz3EXv0RYZL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-6" value="接口联调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="650" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-7" target="ziaTT8W9rmz3EXv0RYZL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-7" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="650" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-8" target="ziaTT8W9rmz3EXv0RYZL-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-8" value="UAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="650" width="65" height="30" as="geometry" />
