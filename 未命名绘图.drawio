@@ -96,7 +96,7 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-27" value="走查阶段" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#CCE5FF;fillColor=#CCE5FF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1731" y="585" width="142.5" height="435" as="geometry" />
         </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-248" value="通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-27">
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-248" value="与" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-27">
           <mxGeometry x="99" y="102.5" width="40" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-84" value="上线流程阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
