@@ -305,8 +305,8 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-188" target="ziaTT8W9rmz3EXv0RYZL-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-199" value="前端定义字段，提供数据转换口子&lt;div&gt;后端自行联调&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1260" width="210" height="26" as="geometry" />
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-199" value="前端定义字段，提供数据转换函数&lt;div&gt;后端自行联调&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1210" width="210" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
