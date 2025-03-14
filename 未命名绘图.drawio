@@ -37,6 +37,11 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-5" value="交互还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-74">
           <mxGeometry x="42.5" y="135" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ziaTT8W9rmz3EXv0RYZL-74" source="ziaTT8W9rmz3EXv0RYZL-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232.5" y="79.76190476190459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-128" value="逻辑编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-74">
           <mxGeometry x="142.5" y="65" width="65" height="30" as="geometry" />
         </mxCell>
@@ -295,6 +300,12 @@
           <mxGeometry x="980" y="1169" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-67" target="ziaTT8W9rmz3EXv0RYZL-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-189" target="ziaTT8W9rmz3EXv0RYZL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-188" target="ziaTT8W9rmz3EXv0RYZL-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
