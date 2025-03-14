@@ -61,6 +61,14 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-3" target="ziaTT8W9rmz3EXv0RYZL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-3" target="ziaTT8W9rmz3EXv0RYZL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="473" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-3" value="UID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="65" height="30" as="geometry" />
         </mxCell>
@@ -69,6 +77,9 @@
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-4" value="视觉还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-5" target="ziaTT8W9rmz3EXv0RYZL-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-5" value="交互还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="720" width="65" height="30" as="geometry" />
