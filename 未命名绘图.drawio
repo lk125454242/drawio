@@ -77,6 +77,9 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-65" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-80">
           <mxGeometry x="40" y="325" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ziaTT8W9rmz3EXv0RYZL-175" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ziaTT8W9rmz3EXv0RYZL-80">
+          <mxGeometry x="38.75" y="584" width="65" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-82" value="UAT阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="585" width="142.5" height="665" as="geometry" />
         </mxCell>
@@ -228,9 +231,6 @@
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-168" value="接口联调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1128.75" y="1169" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-169" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1287.5" y="1169" width="65" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-170" value="UAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1448.75" y="1169" width="65" height="30" as="geometry" />
         </mxCell>
@@ -245,9 +245,6 @@
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ziaTT8W9rmz3EXv0RYZL-175" target="ziaTT8W9rmz3EXv0RYZL-176">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ziaTT8W9rmz3EXv0RYZL-175" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1288.75" y="1169" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziaTT8W9rmz3EXv0RYZL-176" value="UAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1448.75" y="1169" width="65" height="30" as="geometry" />
